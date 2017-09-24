@@ -6,7 +6,7 @@
 ### realtime analytics
 *  https://github.com/twitter/heron
 
-###design-patterns
+### design-patterns
 * https://github.com/iluwatar/java-design-patterns
 
 ### network
